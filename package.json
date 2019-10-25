@@ -1,6 +1,6 @@
 {
   "name": "ng-xox",
-  "version": "0.0.0",
+  "version": "1.0.0",
   "scripts": {
     "ng": "ng",
     "start": "ng serve",
@@ -9,7 +9,11 @@
     "lint": "ng lint",
     "e2e": "ng e2e"
   },
+  "license": "MIT",
   "private": true,
+  "keywords": [
+    "angular", "typescript", "pwa", "tutorial"
+  ],
   "dependencies": {
     "@angular/animations": "~8.2.11",
     "@angular/cdk": "^8.0.0",
